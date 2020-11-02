@@ -1,0 +1,11 @@
+Person ID,Name,Department,Date,Shift,Timetable,Start-Work,End-Work,Check-in,Check-out,Late,Early Leave,Attended,Absent,Worked,Break,Leave  Type,Leave,OT1,OT2,OT3
+'95,RONALD IRAWAN SINAGA,JAM 8,2020-09-21,-,-,No Shift Schedule,No Shift Schedule,-,-,0 min,0 min,0 min,0 min,0 min,0 min,-,0 min,0 min,0 min,0 min
+'71,CHICHI DAMAYANTI,JAM 8,2020-09-21,-,-,No Shift Schedule,No Shift Schedule,-,-,0 min,0 min,0 min,0 min,0 min,0 min,-,0 min,0 min,0 min,0 min
+'99,PARLINDUNGAN SITUMORANG,JAM 8,2020-09-21,JAM 8 PANJANG,Timetable-8H Sift Long Time(08:00:00-17:00:00),Normal,Absence,08:10:51,08:10:54,0 min,0 min,0 min,539 min,0 min,60 min,-,0 min,0 min,0 min,0 min
+Check-in Time: 2020-09-21 08:10:51,Check-out Time: 2020-09-21 08:10:54,Attended Duration:0 min
+'100,NIKOLAUS KARTONO OLLA,JAM 8,2020-09-21,JAM 8 PANJANG,Timetable-8H Sift Long Time(08:00:00-17:00:00),Normal,Normal,08:08:35,17:18:42,0 min,0 min,550 min,0 min,540 min,60 min,-,0 min,0 min,0 min,0 min
+Check-in Time: 2020-09-21 08:08:35,Check-out Time: 2020-09-21 17:18:42,Attended Duration:550 min
+'69,DESY MEILINDA KAVADRI,JAM 8,2020-09-21,JAM 8 PANJANG,Timetable-8H Sift Long Time(08:00:00-17:00:00),Normal,Normal,08:00:00,17:33:13,0 min,0 min,573 min,0 min,540 min,60 min,-,0 min,0 min,0 min,0 min
+Check-in Time: 2020-09-21 08:00:00,Check-out Time: 2020-09-21 17:33:13,Attended Duration:573 min
+'70,INDANIA WAHYUNI,JAM 8,2020-09-21,JAM 8 PANJANG,Timetable-8H Sift Long Time(08:00:00-17:00:00),Late,Normal,08:28:47,17:36:12,28 min,0 min,547 min,0 min,540 min,60 min,-,0 min,0 min,0 min,0 min
+Check-in Time: 2020-09-21 08:28:47,Check-out Time: 2020-09-21 17:36:12,Attended Duration:547 min
